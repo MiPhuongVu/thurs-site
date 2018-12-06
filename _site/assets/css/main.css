@@ -50,8 +50,3 @@ ul >li{
   width: 300px;
   color: white;
 }
-
-ol >li {
-  display: inline-block;
-  margin: 0 auto;
-}
