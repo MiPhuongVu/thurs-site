@@ -35,15 +35,18 @@ img {
     border-radius: 300px;
 }
 
+ol {
+    text-align: center;
+}
 
 ul {
     text-align: center;
-    width: 440px;
+    width: 500px;
 }
 
 ul > li {
     display: inline;
-    margin: 0 10px 0 10px;
+    margin: 0 auto;
     width: 100px;
     color: white;
 }
